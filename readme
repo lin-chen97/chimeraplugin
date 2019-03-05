@@ -1,3 +1,7 @@
 Anomaly Detection Plugin for Chimera.
 
 GUI for front in interface and analysis.
+
+Next steps:
+	Tk, tix
+	Biopython
