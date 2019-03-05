@@ -1,4 +1,4 @@
-"""This is the GUi for the ecsu
+"""This is the GUI for the ecsu
 
 validation research chimera plug-in.
 """
