@@ -12,6 +12,9 @@ from Tkinter import *
 class PlugIn(Frame):
 
     def createWidgets(self):
+
+        #here it is
+        
         self.QUIT = Button(self)
         self.QUIT["text"] = "CLOSE"
         self.QUIT["fg"]   = "red"
